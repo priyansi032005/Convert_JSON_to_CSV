@@ -19,3 +19,4 @@ This Python mini-project aims to convert JSON data to CSV format. It provides a 
 
 ### How to run the script
 - Execute `python3 converter.py`
+
